@@ -1,0 +1,61 @@
+#menu {
+  background-color: #66A7F3;
+  display: flex;
+  color: white;
+}
+
+#menu div{
+  padding: 20px;
+}
+
+#name {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+#home {
+  font-size: 24px;
+}
+
+#categories {
+  font-size: 24px;
+}
+
+#featured {
+  background-color: lightgrey;
+  padding: 5px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+#featured h2 {
+  color: #595555;
+  font-size: 24px;
+  font-family: Arial,Verdana,Sans-serif;
+  padding: 0px 20px 0px 0px;
+}
+
+#featured p {
+  color: #595555;
+  font-size: 12px;
+  font-family: Arial,Verdana,Sans-serif;
+}
+
+ul {
+  list-style-type: none;
+}
+
+#articles h3 {
+  color: blue;
+  font-size: 24px;
+  font-family: Arial,Verdana,Sans-serif;
+}
+
+#articles div {
+  background-color: #E6943B;
+  color: white;
+  font-size: 11px;
+  padding: 8px
+
+
+}
